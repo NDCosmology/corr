@@ -1,0 +1,24 @@
+SpecBase	   	 		      ../specs/snapshot_001_fake_gas-dspec-tspec-spec
+OmegaM				         0.27
+OmegaLambda			         0.73
+OmegaR                     0.0
+OmegaK                     0.0
+Hubble_h			            0.702
+UnitLength_in_cm		      3.085678e21
+nfiles                     600
+nFilesUse                  600
+redshift                   10
+BoxSize                    10.0
+w0                         -1.1
+wa                         3.0
+
+# -----------------------------------------------------------------------------
+#
+# Path 				            Path of the directory containing a Snapshot
+# Omega				            Omega Matter
+# OmegaLambda			         Omega Lambda
+# Hubble_h			            Hubble constant in units of 100 km/s/Mpc
+# UnitLength_in_cm 		      gadget units. (3.085678e21 for 1.0 kpc)
+# Npixels                     Number of pixels each LOS has
+#
+# =============================================================================
